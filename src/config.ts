@@ -17,13 +17,13 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable:true,
-		src: "assets/images/139285974_p0_master1200.avif", // 相对于 /src 目录。如果以 '/' 开头则相对于 /public 目录
+		src: "assets/images/128999992_p0_master1200.avif", // 相对于 /src 目录。如果以 '/' 开头则相对于 /public 目录
 		
 		position: "center", // 相当于 object-position，只支持 'top'、'center'、'bottom'。默认为 'center'
 		credit: {
 			enable: true, // 显示横幅图片的来源文字
-			text: "洛天依", // 要显示的来源文字
-			url: "https://www.pixiv.net/artworks/139285974", // （可选）原作品或艺术家页面的 URL 链接
+			text: "无题", // 要显示的来源文字
+			url: "https://www.pixiv.net/artworks/128999992", // （可选）原作品或艺术家页面的 URL 链接
 		},
 	},
 	toc: {
