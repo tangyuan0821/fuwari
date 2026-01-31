@@ -19,7 +19,7 @@ export const siteConfig: SiteConfig = {
 		enable:true,
 		src: "https://i.pximg.net/img-original/img/2025/04/03/21/58/23/128919932_p0.png", // 相对于 /src 目录。如果以 '/' 开头则相对于 /public 目录
 		
-		position: "bottom", // 相当于 object-position，只支持 'top'、'center'、'bottom'。默认为 'center'
+		position: "center", // 相当于 object-position，只支持 'top'、'center'、'bottom'。默认为 'center'
 		credit: {
 			enable: true, // 显示横幅图片的来源文字
 			text: "釧路の空", // 要显示的来源文字
