@@ -17,13 +17,13 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable:true,
-		src: "assets/images/124975818_p2_master1200.avif", // 相对于 /src 目录。如果以 '/' 开头则相对于 /public 目录
+		src: "https://i.pximg.net/img-original/img/2025/04/03/21/58/23/128919932_p0.png", // 相对于 /src 目录。如果以 '/' 开头则相对于 /public 目录
 		
 		position: "bottom", // 相当于 object-position，只支持 'top'、'center'、'bottom'。默认为 'center'
 		credit: {
 			enable: true, // 显示横幅图片的来源文字
-			text: "Pixiv@CyanAutumn", // 要显示的来源文字
-			url: "https://www.pixiv.net/artworks/124975818", // （可选）原作品或艺术家页面的 URL 链接
+			text: "釧路の空", // 要显示的来源文字
+			url: "https://www.pixiv.net/artworks/128919932", // （可选）原作品或艺术家页面的 URL 链接
 		},
 	},
 	toc: {
