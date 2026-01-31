@@ -17,7 +17,7 @@ draft: false
 
 今年1月初，我尝试使用 [Twilight](https://twilight.spr-aachen.com/) 主题部署博客，但主题配置过于繁琐，忙活了一晚上也未成形。第二天又要投入到忙碌的学习中，也不了了之了。
 
-1月30号的夜里，期末考完了。忙碌的考试周和繁重的九年级学业也暂告一段落了（虽然周一还要上学，嘤嘤嘤）。终于又有时间捣鼓博客了。在逛B站时，我浏览了几个astro 框架的主题，发现了一个很好看的主题，也就是[Fuwari](https://github.com/saicaca/fuwari)。又在网上了解了一下，可以搜到很多inspired by fuwari 的主题，比如 [Yukina](https://yukina-blog.vercel.app/)、[Firefly](https://demo-firefly.netlify.app/)、[Mizuki](https://mizuki.mysqil.com/)等主题。
+1月30号的夜里，期末考完了。忙碌的考试周和繁重的九年级学业也暂告一段落了（虽然周一还要上学，嘤嘤嘤）。终于又有时间捣鼓博客了。在逛B站时，我浏览了几个astro 框架的主题，发现了一个很好看的主题，也就是[Fuwari](https://github.com/saicaca/fuwari)。又在网上搜了一下，可以搜到很多inspired by fuwari 的主题，比如 [Yukina](https://yukina-blog.vercel.app/)、[Firefly](https://demo-firefly.netlify.app/)、[Mizuki](https://mizuki.mysqil.com/)等主题。
 
 下图是它们 star-history.com 上的增长趋势：
 
@@ -25,7 +25,7 @@ draft: false
 于是我决定使用[Fuwari](https://github.com/saicaca/fuwari)作为主题，搭建博客。
 
 ## 部署与调试
-由于有了经验，部署的流程很快，按照文档和网上教程一步一步来，一小时内搞定。改造页面花了好久，不过最终也是成了
+由于有了经验，部署的流程很快，按照文档和网上教程一步一步来，一小时内搞定。改造页面花了好久，不过最终也是成了。
 
 ## 博客的格式
 
