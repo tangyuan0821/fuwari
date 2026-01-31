@@ -25,7 +25,7 @@ draft: false
 于是我决定使用[Fuwari](https://github.com/saicaca/fuwari)作为主题，搭建博客。
 
 ## 部署与调试
-由于有了经验，部署的流程很快，按照文档和网上教程一步一步来，一小时内搞定。不过改造页面花了好久，首先config.js 调了好久，背景图在 pixiv 上找了半个小时，发现所有正方形的图片和竖屏图都无法使用，得找专门的横幅桌面背景画师，最终找到 洛天依 的这张作品。
+由于有了经验，部署的流程很快，按照文档和网上教程一步一步来，一小时内搞定。改造页面花了好久，不过最终也是成了
 
 ## 博客的格式
 
@@ -88,9 +88,6 @@ Admonitions ：
 
 >[!NOTE]
 > Highlights information that users should take into account, even when skimming.
-
->[!MY CUSTOM TITLE]
-> This is a note with a custom title.
 
 >[!TIP]
 > Optional information to help a user be more successful.
