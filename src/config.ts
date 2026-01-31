@@ -19,7 +19,7 @@ export const siteConfig: SiteConfig = {
 		enable:true,
 		src: "assets/images/124975818_p2_master1200.avif", // 相对于 /src 目录。如果以 '/' 开头则相对于 /public 目录
 		
-		position: "top", // 相当于 object-position，只支持 'top'、'center'、'bottom'。默认为 'center'
+		position: "bottom", // 相当于 object-position，只支持 'top'、'center'、'bottom'。默认为 'center'
 		credit: {
 			enable: true, // 显示横幅图片的来源文字
 			text: "Pixiv@CyanAutumn", // 要显示的来源文字
