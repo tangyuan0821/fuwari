@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable:true,
-		src: "https://i.pximg.net/img-original/img/2025/04/03/21/58/23/128919932_p0.png", // 相对于 /src 目录。如果以 '/' 开头则相对于 /public 目录
+		src: "assets/images/128919932_p0_master1200.jpg", // 相对于 /src 目录。如果以 '/' 开头则相对于 /public 目录
 		
 		position: "center", // 相当于 object-position，只支持 'top'、'center'、'bottom'。默认为 'center'
 		credit: {
